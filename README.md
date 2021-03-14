@@ -1,7 +1,9 @@
 ---
 
-# Portfolio web David Fabiani UX/UI Designer
+# Portfolio Web UX/UI Designer
 
-Este es un Portfolio Web creado para David Fabiani, Diseñador UX/UI.
+Este es un Portfolio Web creado para un Diseñador UX/UI.
 
-El sitio es creado principalmente a partir de bootstrap theme, maqueté, y modifique los archivos HTML y CSS para adaptarlo a todas las necesidades del cliente, mejorando el flujo y la navegacion del sitio.
+El sitio es creado principalmente a partir de bootstrap, donde realicé la maquetación de 
+los archivos HTML y CSS para adaptarlos a todas las necesidades del cliente, creando un 
+sitio amigable y con una navegación ideal.
